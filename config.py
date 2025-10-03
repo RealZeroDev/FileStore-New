@@ -4,36 +4,36 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 6819408964
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
-SHORT_API = "" 
+SHORT_URL = "arolinks.com" # shortner url 
+SHORT_API = "9fcfb5aef7643e1859aa886defb44a34fc5ed096" 
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
-SESSION = "yato"
-TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+SESSION = "RealZeroking"
+TOKEN = "8386375283:AAGLjs20CWgq8AwkYTAo3-iRiS9j9SpkBTI"
+API_ID = "28449420"
+API_HASH = "608b71c13cec20da6662327fa1fc7d35"
 WORKERS = 5
 
-DB_URI = "mongodb"
-DB_NAME = "yato"
+DB_URI = "mongodb+srv://thezerodev:GtiCjva8tQnD1PRN@cluster0.t9gtmbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_NAME = "thezerodev"
 
-FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1002633749982, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL =    # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
-# DB_CHANNELS = {
-#     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
-#     "-1001234567890": {"name": "Secondary DB", "is_primary": False, "is_active": True}
+# DB_CHANNELS ="-1003171333502" {
+#     "-1002881043369": {"name": "Primary DB", "is_primary": True, "is_active": True},
+#     "-1002313995976": {"name": "Secondary DB", "is_primary": False, "is_active": True}
 # }
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [6497757690, 6103092779]
+ADMINS = [957204779,8034171951 ]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True
