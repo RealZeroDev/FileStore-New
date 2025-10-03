@@ -3,38 +3,37 @@ from logging.handlers import RotatingFileHandler
 
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
-PORT = '5010'
+PORT = "5010"
+
+# Owner / Admins
 OWNER_ID = 6819408964
+ADMINS = [957204779, 8034171951]
 
-MSG_EFFECT = 5046509860389126442
-
-SHORT_URL = "arolinks.com" # shortner url 
-SHORT_API = "9fcfb5aef7643e1859aa886defb44a34fc5ed096" 
-SHORT_TUT = "https://t.me/How_to_Download_7x/26"
-
-# Bot Configuration
-SESSION = "RealZeroking"
+# Telegram API / Bot
+SESSION = "RealZeroking"  # if you have StringSession, replace here
 TOKEN = "8386375283:AAGLjs20CWgq8AwkYTAo3-iRiS9j9SpkBTI"
-API_ID = "28449420"
+API_ID = 28449420
 API_HASH = "608b71c13cec20da6662327fa1fc7d35"
 WORKERS = 5
 
+# Mongo Database
 DB_URI = "mongodb+srv://thezerodev:GtiCjva8tQnD1PRN@cluster0.t9gtmbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "thezerodev"
 
-FSUBS = [[-1002633749982, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
-# Database Channel (Primary)
-DB_CHANNEL = "-1003171333502"
-# Multiple Database Channels (can be set via bot settings)
-# DB_CHANNELS ="-1003171333502" {
-#     "-1002881043369": {"name": "Primary DB", "is_primary": True, "is_active": True},
-#     "-1002313995976": {"name": "Secondary DB", "is_primary": False, "is_active": True}
-# }
-# Auto Delete Timer (seconds)
+# Channels
+FSUBS = [[-1002633749982, True, 10]]  # [channel_id, request_enabled, timer_in_minutes]
+DB_CHANNEL = -1002861366260  # Primary FileStore Channel (without quotes)
+
+# Auto Delete
 AUTO_DEL = 300
-# Admin IDs
-ADMINS = [957204779,8034171951 ]
-# Bot Settings
+
+# Shortlink Settings
+SHORT_URL = "arolinks.com"
+SHORT_API = "9fcfb5aef7643e1859aa886defb44a34fc5ed096"
+SHORT_TUT = "https://t.me/How_to_Download_7x/26"
+
+# Extra Settings
+MSG_EFFECT = 5046509860389126442
 DISABLE_BTN = True
 PROTECT = True
 
