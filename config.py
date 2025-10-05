@@ -47,7 +47,7 @@ MESSAGES = {
 ›› ʟᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3 
 ›› ʟɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ ᴠ2 
 ›› ᴅᴀᴛᴀʙᴀsᴇ: Mᴏɴɢᴏ ᴅʙ 
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @RealZeroKing",
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @RealZeroKing</b></blockquote>",
     "REPLY": "<b>For More Join - @ZeroNetOfficial</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
     "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
