@@ -10,7 +10,7 @@ MSG_EFFECT = 5046509860389126442
 
 SHORT_URL = "arolinks.com" # shortner url 
 SHORT_API = "9fcfb5aef7643e1859aa886defb44a34fc5ed096" 
-SHORT_TUT = "https://t.me/How_to_Download_7x/26"
+SHORT_TUT = "https://t.me/ZeroNetTutorial/10"
 
 # Bot Configuration
 SESSION = "RealZeroking"
@@ -33,7 +33,7 @@ DB_CHANNEL = -1002861366260    # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 300
 # Admin IDs
-ADMINS = [957204779, 8034171951]
+ADMINS = [0000000000]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True
@@ -45,9 +45,9 @@ MESSAGES = {
     "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @ZeroNetOfficial \n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/ZeroNetBots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› ᴏᴡɴᴇʀ: @RealZeroKing\n›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @RealZeroKing</b></blockquote>",
     "REPLY": "<b>For More Join - @ZeroNetMovie</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
-    "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
-    "FSUB_PHOTO": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
-    "SHORT_PIC": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
+    "START_PHOTO": "https://files.catbox.moe/lioam6.jpg",
+    "FSUB_PHOTO": "https://files.catbox.moe/k7f03t.jpg",
+    "SHORT_PIC": "https://files.catbox.moe/k7f03t.jpg",
     "SHORT": "https://telegra.ph/file/8aaf4df8c138c6685dcee-05d3b183d4978ec347.jpg"
 }
 
