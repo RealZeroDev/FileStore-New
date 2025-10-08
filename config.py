@@ -19,8 +19,8 @@ API_ID = "28449420"
 API_HASH = "608b71c13cec20da6662327fa1fc7d35"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://thezerodev:GtiCjva8tQnD1PRN@cluster0.t9gtmbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = "thezerodev"
+DB_URI = "mongodb+srv://sandeep98185675_db_user:kik7b7YjGi8HkUD6@mashafiles.ydyf5ca.mongodb.net/?retryWrites=true&w=majority&appName=MashaFiles"
+DB_NAME = "MashaFilesBot"
 
 FSUBS = [[-1002633749982, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
