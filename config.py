@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/ZeroNetTutorial/10"
 
 # Bot Configuration
 SESSION = "RealZeroking"
-TOKEN = ""
+TOKEN = "8386375283:AAGBLtbR9zoMJ2DaPOCQ6q8uhryuiCAkwUw"
 API_ID = "28449420"
 API_HASH = "608b71c13cec20da6662327fa1fc7d35"
 WORKERS = 5
